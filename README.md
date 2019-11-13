@@ -1,9 +1,10 @@
 # ANU_Embedded
-for my university lecture
+I learned face recongition which is used machine learning(or A.I) algorithme
+so i searched and found that it can be only used opencv(library) without openFace(library).
+this uses openFace's data (it's called "nn4.small2.v1.t7").
 
 
-Because of github's policy, i can't upload learned model on face
-(it's called nn4.small2.v1.t7)
-This file is needed in face_embedding folder.
+-The directory
+face detecting : openCV DNN Face Detecting
+face_emedding  : openCV Face Embedding value(128 values on a face) with openFace
 
-'nn4.small2.v1.t7' Dowload URL : http://openface-models.storage.cmusatyalab.org/nn4.small2.v1.t7
